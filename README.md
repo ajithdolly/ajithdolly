@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajith Dollichan
 
-### 💻 Software Developer|React | Springboot | Fintech Speacilist
+### 💻 Software Developer | React | Java Springboot | Fintech Speacilist
 📍 Based in Mannheim, Germany
 
 ---
