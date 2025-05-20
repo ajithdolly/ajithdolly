@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajith Dollichan
 
-### 💻 Software Developer | Backend Specialist | Accessibility Advocate  
-📍 Based in Mannheim, Germany | 🌍 Indian Nationality  
+### 💻 Software Developer|React | Springboot | Fintech Speacilist
+📍 Based in Mannheim, Germany
 
 ---
 
