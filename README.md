@@ -7,12 +7,11 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages:** Java, JavaScript, Python, Kotlin  
+- **Languages:** Java, JavaScript, Python
 - **Frameworks/Libraries:** Spring Boot, React.js, MUI, Bootstrap  
 - **Architecture:** Microservices, Distributed Systems, API Design  
 - **DevOps/Tools:** Docker, Kubernetes, Jenkins, Git, JIRA, Kibana  
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQL  
-- **Testing:** TDD, Unit Testing, Integration Testing  
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL
 
 ---
 
